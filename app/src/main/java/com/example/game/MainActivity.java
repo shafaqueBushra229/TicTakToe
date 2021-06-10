@@ -93,6 +93,8 @@ public class MainActivity extends AppCompatActivity {
             getState[i]= 2;
         }
         activePlayer =0;
+
+        //krtuuuvvbhhj
         gameActive = true;
 
     }
