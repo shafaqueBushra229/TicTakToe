@@ -48,8 +48,7 @@ public class MainActivity extends AppCompatActivity {
             }
 
             counter.animate().translationYBy(1500).setDuration(300);
-
-
+            //xsdva
             for (int winningPosition[] : winningState) {
 
                 if (getState[winningPosition[0]] == getState[winningPosition[1]] &&
